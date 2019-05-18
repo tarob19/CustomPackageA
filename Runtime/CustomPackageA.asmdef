@@ -1,0 +1,24 @@
+{
+    "name": "CustomPackageA",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "2.0.0",
+            "define": "USING_TEXTMESHPRO_2_0_0"
+        },
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "2.0.1",
+            "define": "USING_TEXTMESHPRO_2_0_1"
+        }
+    ]
+}
