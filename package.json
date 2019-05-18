@@ -1,0 +1,9 @@
+{
+  "name": "CustomPackageA",
+  "version": "0.0.1",
+  "displayName": "CustomPackageA",
+  "unity": "2019.1",
+  "description": "Custom package A",
+  "dependencies": {
+  }
+}
